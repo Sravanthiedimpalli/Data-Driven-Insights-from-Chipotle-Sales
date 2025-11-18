@@ -26,7 +26,7 @@ Analyzed 4,622 Chipotle food orders using Python (pandas, matplotlib, seaborn) t
 - matplotlib
 - seaborn
 
-Conclusion
+## Conclusion
 
 This project provided powerful business insights from Chipotle’s order data through thorough cleaning, exploration, and visualization. Key findings reveal that a small number of menu items and choice customizations drive the majority of sales and revenue. These results highlight clear opportunities for targeted marketing, focused promotions, and product bundling to enhance customer satisfaction and increase profit. Data-driven strategies based on these insights can help Chipotle fine-tune its menu offerings and pricing to better match customer demand.
 
